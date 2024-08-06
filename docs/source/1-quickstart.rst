@@ -106,7 +106,7 @@ Create Terraform Statefile in GCS bucket.
 
 .. code:: bash
 
-  bash setup/setup_terraform.sh
+  bash terraform/setup_terraform.sh
 
 
 Initialze terraform:
